@@ -1,0 +1,40 @@
+.contact tr{
+  height:7rem;
+}
+
+.contact th{
+  width:150px;
+  border-bottom:solid 1px #fff;
+}
+
+.contact td{
+  padding-left: 1rem;
+}
+.text_width{
+  display: block;
+  width:480px;
+}
+
+textarea{
+  width:480px;
+}
+
+.contact{
+  border-collapse: collapse;
+}
+
+#submit{
+  background-color: #5B9FAE;
+  height: 5rem;
+  width: 10rem;
+  text-decoration: none;
+  display: table-cell;
+  text-align:center;
+  vertical-align: middle;
+  font-size: 30px;
+  color: white;
+  position: relative;
+  left: 300px;
+
+}
+
