@@ -126,3 +126,6 @@ height: 100%;
   .side_menu .point a{
 color: #4D4D4D
   }
+.submit　:hover{
+    opacity:0.6;
+}
